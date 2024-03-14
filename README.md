@@ -1,1 +1,1 @@
-# rui-fish-diseasee-detection-system
+# rui-fish-disease-detection-system
